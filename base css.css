@@ -1,0 +1,27 @@
+#inicio {
+	background-image: url("imagenes/rata home.jpeg");
+	background-size: cover;
+}
+#level1 {
+	background-image: url("imagenes/ruta.jpeg");
+	background-size: cover;
+}
+#serpiente {
+	position:absolute; left:300px; top:600px; background-color:yellow;
+}
+#camino {
+	position:absolute; left:1100px; top:100px; background-color:lightslategray;
+}
+
+#bosque {
+	position:absolute; left:400px; top:150px; background-color:green;
+}
+
+#rata {
+	position:absolute; left:1550px; top:500px; background-color:slategray;
+}
+
+#text {
+	position:absolute; left:1200px; top:300px; background-color:slategray;
+	margin-right: 100px;
+}

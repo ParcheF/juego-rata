@@ -1,0 +1,29 @@
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+body{
+	background-image: url("imagenes/rata home.jpg");
+	background-size: cover;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
+
+
+
+h1{
+	text-align: center;
+}
+button{
+	width: 28px;
+	height: 26px;
+}
+input{
+	width: 20px;
+	height: 20px;
+}
